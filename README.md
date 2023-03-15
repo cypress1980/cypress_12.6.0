@@ -4,6 +4,6 @@ Cypress + LambdaTest = ❤
 
 
 
-Pre-request
+Pre-request:  
 [Node](https://nodejs.org/en/download/) is installed
-Vs [Code](https://code.visualstudio.com/download) is installed
+[Vs Code](https://code.visualstudio.com/download) is installed
